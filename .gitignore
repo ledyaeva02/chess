@@ -1,0 +1,9 @@
+/build/
+/.gradle/
+/.idea/
+
+*.jar
+*.class
+
+!gradle-wrapper.jar
+/chess.iml
